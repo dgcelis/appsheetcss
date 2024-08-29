@@ -41,7 +41,7 @@ h1 {
 }
 h2 {
     font: bold 100% sans-serif;
-    letter-spacing: 0.2em;
+    letter-spacing: 2;
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 10em; /* Añadido para espacio después del título */
