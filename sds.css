@@ -172,7 +172,7 @@ article address {
 table.meta,
 table.balance {
     float: right;
-    width: 36%;
+    width: 40%;
 }
 
 table.meta:after,
