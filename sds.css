@@ -184,11 +184,11 @@ table.balance:after {
 
 /* table meta */
 table.meta th {
-    width: 40%;
+    width: 50%;
 }
 
 table.meta td {
-    width: 60%;
+    width: 50%;
 }
 
 /* table items */
